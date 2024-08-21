@@ -1,0 +1,17 @@
+gender,weather,situation,fashion_style,upperwear,bottomwear,footwear
+male,cold,formal,formal,coat-shirt,trousers,loafers
+male,hot,formal,formal,coat-shirt,trousers,loafers
+male,cold,nonformal,casual,jacket;coat-shirt,trousers,sneakers;slippers
+male,hot,nonformal,casual,tshirt;coat-shirt,pants,sneakers;slippers
+male,cold,nonformal,street_style,jacket;coat-shirt,trousers,sneakers;slippers
+male,hot,nonformal,street_style,tshirt;coat-shirt,pants,sneakers;slippers
+male,cold,nonformal,young,jacket;coat-shirt,trousers,sneakers;slippers
+male,hot,nonformal,young,tshirt;coat-shirt,pants,sneakers;slippers
+female,cold,formal,formal,coat-shirt,formal-skirt;trousers,loafers
+female,hot,formal,formal,dress;coat-shirt,trousers;formal-skirt,loafers
+female,cold,nonformal,casual,tshirt;jacket,non-formal-skirt;trousers,sneakers
+female,hot,nonformal,casual,tshirt,non-formal-skirt,slippers;sneakers
+female,cold,nonformal,streetstyle,tshirt;jacket;onepiece,non-formal-skirt;trousers,sneakers;heels
+female,hot,nonformal,streetstyle,tshirt,trousers;non-formal-skirt,heels;sneakers
+female,cold,nonformal,young,tshirt;jacket,non-formal-skirt;trousers,sneaker;slipers;heels
+female,hot,nonformal,young,tshirt,trousers,slippers;sneakers
